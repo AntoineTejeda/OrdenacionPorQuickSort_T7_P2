@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1666991407 source:c:\users\andre\onedrive\escritorio\programas_estrucuturas\tarea7_parcial2_quicksort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
